@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+.vs/
+**/.vs/
+
+# Build files
+bin/
+obj/
+
+# Sensitive configuration
+.env
+# appsettings.Development.json
+
+# User-specific files
+*.user
+*.suo

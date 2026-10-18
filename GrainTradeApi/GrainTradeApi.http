@@ -1,0 +1,6 @@
+@GrainTradeApi_HostAddress = http://localhost:5089
+
+GET {{GrainTradeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
